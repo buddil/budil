@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hippie_bus
+* source:	https://sketchfab.com/3d-models/hippie-bus-a9344ef217464e2da1e83533c3d9ef23
+* author:	Georg_Evd (https://sketchfab.com/Georg_Evd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hippie_bus" (https://sketchfab.com/3d-models/hippie-bus-a9344ef217464e2da1e83533c3d9ef23) by Georg_Evd (https://sketchfab.com/Georg_Evd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
